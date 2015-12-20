@@ -9,4 +9,5 @@ new ES6 usage some of them require special run time flags in order to function:
 6. node --harmony_destructuring 6.js
 7. node --harmony_destructuring 7.js
 8. node 8.js
+9. node --harmony 9.js
 
