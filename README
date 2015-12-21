@@ -14,3 +14,5 @@ new ES6 usage some of them require special run time flags in order to function:
 11. node 11.js
 12. cat input | node 12.js
 13. node --harmony 13.js
+14. node --harmony 14.js
+
