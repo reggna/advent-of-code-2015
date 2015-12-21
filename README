@@ -1,4 +1,6 @@
-I'm running this with node js v4.2.3 LTS, and since the solutions includes some
+http://adventofcode.com/
+
+I'm running this with Node.js v4.2.3 LTS, and since the solutions includes some
 new ES6 usage some of them require special run time flags in order to function:
 
 1. node 1.js
