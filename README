@@ -18,4 +18,5 @@ new ES6 usage some of them require special run time flags in order to function:
 13. node --harmony 13.js
 14. node --harmony 14.js
 15. node 15.js
+16. node 16.js
 
